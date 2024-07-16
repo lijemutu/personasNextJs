@@ -32,6 +32,8 @@ const config: Config = {
         "6xl": "2.75rem",
         "7xl": "4.5rem",
         "8xl": "6.25rem",
+        "9xl": "7rem",
+        "10xl":"8.5rem"
       },
       boxShadow: {
         sm: "0 5px 10px rgba(0, 0, 0, 0.12)",

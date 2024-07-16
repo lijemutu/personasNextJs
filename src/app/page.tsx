@@ -14,16 +14,10 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <Intro />
+        <Intro/>
         <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.coverImage}
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
+        posts={allPosts}
         />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
       </Container>
     </main>
   );

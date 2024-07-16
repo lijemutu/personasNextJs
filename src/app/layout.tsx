@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `BUSCO JUSTICIA POR`,
+  description: `Un sitio para honrar el recuerdo de personas que ya no se encuentran con nosotros a causa de una injusticia.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -58,7 +58,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        // className={cn(inter.className, "dark:bg-orange-50 dark:text-zinc-950")}
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
