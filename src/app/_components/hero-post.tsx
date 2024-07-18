@@ -13,11 +13,11 @@ export function HeroPost(
   { posts }: Props) {
   return (
     <section>
-      <div className=" mx-20 md:mx-80 ">
+      <div className=" mx-20 md:mx-[600px] ">
         {
           posts.map((post) => (
-            <div className="my-10">
-              <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+            <div className="my-20">
+              <h3 className="mb-4 text-4xl lg:text-5xl leading-tight font-semibold">
                 <Link href={`/posts/${post.slug}`} className="hover:underline">
                   {post.title}
                 </Link>

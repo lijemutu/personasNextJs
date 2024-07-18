@@ -1,19 +1,22 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
-author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+title: "Luis Ángel López Guzmán - CDMX"
+date: "2018-09-26T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+"Luis estaba en su domicilio, arreglando los vidrios de un departamento. Entran tres hombres por él. Preguntan quién es Luis, entra un cuarto hombre que lo señala y dice:
+"es él". Y es como se llevan a mi hijo" - Rosa Icela Guzmán Madre de Luis Angel
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+El lugar donde nos dan su última geolocalización es en Tláhuac, en el bosque de Tláhuac es un lugar muy extenso donde hay lagunas, he entrado a incluso a otros estados buscando ya no solo a Luis sino a los miles de desaparecidos que existen en Ciudad de México.
 
-## Lorem Ipsum
+## Multimedia
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+https://www.youtube.com/watch?v=Qv_J58S16hc
+https://www.agencia24mm.com/foto/familiares-buscan-a-luis-angel-en-tlahuac-3/
+https://www.elcuartodeguerra.com/nacional-internacional/noticia/887-531-b
+https://www.elcuartodeguerra.com/files/posts/64cdb8021af46IMG-20230804-WA0080.jpg
+https://www.elcuartodeguerra.com/files/posts/64cdb80998569IMG-20230804-WA0078.jpg
+https://www.elcuartodeguerra.com/files/posts/64cdb80a846afIMG-20230804-WA0076.jpg
+https://mvsnoticias.com/u/fotografias/m/2023/4/21/f1280x720-534501_666176_5050.png
+https://www.elcuartodeguerra.com/files/posts/64cdb80b1b32aIMG-20230804-WA0075.jpg

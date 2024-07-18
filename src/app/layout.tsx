@@ -3,7 +3,6 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
-import { ThemeSwitcher } from "./_components/theme-switcher";
 
 import "./globals.css";
 
@@ -58,9 +57,9 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        // className={cn(inter.className, "dark:bg-orange-50 dark:text-zinc-950")}
+        className={cn(inter.className, "bg-orange-50 text-zinc-950 font-mono")}
       >
-        <ThemeSwitcher />
+        {/* <ThemeSwitcher /> */}
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
